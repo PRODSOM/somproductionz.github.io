@@ -1,0 +1,43 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: linear-gradient(180deg, #ff9a3c, #ff6f61, #3b1c32);
+  color: #fff;
+  min-height: 100vh;
+}
+
+header {
+  text-align: center;
+  padding: 40px 20px;
+}
+
+.tagline {
+  opacity: 0.9;
+}
+
+#beats {
+  max-width: 900px;
+  margin: auto;
+  padding: 20px;
+}
+
+.beat {
+  background: rgba(0,0,0,0.35);
+  border-radius: 14px;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+.beat h2 {
+  margin-top: 0;
+}
+
+audio {
+  width: 100%;
+  margin: 10px 0;
+}
+
+.buy-btn {
+  display: inline-block;
+  margin-top: 10px;
+}
