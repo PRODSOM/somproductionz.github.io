@@ -3,7 +3,7 @@ const beats = [
     name: "Senorita",
     bpm: "110",
     key: "G minor",
-    preview: senorita-preview.mp3
+    preview: "Senorita (tagged).mp3",
     price: "25",
     paypal: "https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=yhanlemaofficial@gmail.com&item_name=Senorita+Beat&amount=25&currency_code=USD"
   }
