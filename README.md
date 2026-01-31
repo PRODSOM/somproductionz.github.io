@@ -132,7 +132,7 @@
       <small>110 BPM • G Minor</small>
 
       <audio controls>
-        <source src="Senorita (tagged).mp3" type="audio/mpeg">
+        <source src="senorita-preview.mp3" type="audio/mpeg">
       </audio>
 
       <a class="buy-btn"
